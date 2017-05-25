@@ -58,6 +58,7 @@ void DFSTraversal(ListHead* listHeadArray, int listHeadArraySize, ListHeadHashTa
 void MissionTwoPrintf(StuPairs* stuPairArray, int stuPairsSize, int graphNumber);
 
 Mission One思路如圖：
+![ideas as shown](https://github.com/ShanQincheng/AdjacencyList/blob/master/Ideas.png)
 
 
 Mission Two：思路
